@@ -26,7 +26,7 @@ The original datasets and research by Antonio et al. can be found here: [Hotel B
 
 - SVM demonstrated the best performance overall with an f1-score accuracy of **71%**, and **66%** recall across the cancellation class.
 
-- An ANN model was also trained in conjunction with dice_ml to identify [Diverse Counterfactual Explanations](https://github.com/MGCodesandStats/hotel-modelling/blob/master/interpretml-dice-ml.ipynb) for hotel bookings, i.e. changes in feature parameters that would cause a non-canceling customer to cancel, and vice versa. Reference to the findings were made under [Microsoft's Diverse Counterfactual Explanations (DiCE) for ML](https://interpret.ml/DiCE/) README.
+- An ANN model was also trained in conjunction with dice_ml to identify [Diverse Counterfactual Explanations](https://github.com/MGCodesandStats/hotel-modelling/blob/master/interpretml-dice-ml.ipynb) for hotel bookings, i.e. changes in feature parameters that would cause a non-canceling customer to cancel, and vice versa. Reference to the findings were also made under [Microsoft's Diverse Counterfactual Explanations (DiCE) for ML](https://interpret.ml/DiCE/) README.
 
 ### Stage 3: Regression
 
