@@ -1,8 +1,4 @@
-[Home](https://mgcodesandstats.github.io/) |
-[GitHub](https://github.com/mgcodesandstats) |
-[LinkedIn](https://www.linkedin.com/in/michaeljgrogan/) |
-[Terms](https://mgcodesandstats.github.io/terms/) |
-[E-mail](mailto:contact@michael-grogan.com)
+small changes personal account
 
 # Predicting Hotel Cancellations and ADR with Machine Learning
 
